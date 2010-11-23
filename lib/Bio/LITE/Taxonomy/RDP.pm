@@ -58,7 +58,7 @@ use Bio::LITE::Taxonomy;
 #}
 use base qw(Bio::LITE::Taxonomy);
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 sub new
   {
