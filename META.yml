@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bio-LITE-Taxonomy-RDP
-version:            0.02
+version:            0.03
 abstract:           Lightweight and efficient RDP taxonomic manager
 author:
     - Miguel Pignatelli <emepyc@gmail.com>
@@ -11,7 +11,7 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
-    Bio::LITE::Taxonomy:  0
+    Bio::LITE::Taxonomy:  0.07
     Test::More:           0
     XML::Simple:          0
 no_index:

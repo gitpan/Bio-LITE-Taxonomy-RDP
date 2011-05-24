@@ -5,3 +5,6 @@ Revision history for Bio-LITE-Taxonomy-RDP
 
 0.02	Tue Nov 23 12:59:34 2010
 	Small POD changes
+
+0.03	Tue May 24 12:12:51 2011
+	Small change in the tests to pass recent changes in Bio::LITE::Taxonomy v 0.07
